@@ -1,0 +1,2 @@
+Esta es una historia en txt, se escribio con los comandos VIM y luego se 
+edito con el comando nano
