@@ -13,6 +13,8 @@ Las imagenes de proyecto deben ser enlazadas, no se deben agregar al repositorio
 
 **Lorem ipsum...**
 
+Creado para probar Cherry-pick
+
 [![Skull](Iron Maiden "Skull")](https://i.imgur.com/Wri8ntX.jpg "Skull")
 
 🤑😋 😛 😝 😜 🤪 🤨 🧐 🤓 😎 🤩 🥳 😏 😒 😞 😔 😟
